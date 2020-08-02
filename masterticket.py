@@ -36,6 +36,7 @@ while tickets_remaining != 0:
         print("{}".format(err))
     else:
         print("Dziękujemy za zakupy {}!".format(name))
+        print("Życzymy miłego dnia Mr. {}!".format(name))
         
 print("")
 print("Wszystkie bilety zostały wyprzedane zapraszamy innym razem!")
